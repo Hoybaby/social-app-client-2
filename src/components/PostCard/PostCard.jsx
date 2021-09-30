@@ -18,9 +18,7 @@ function PostCard({
 
     const {user} = useContext(AuthContext);
 
-    // const likePost =() => {
-    //     console.log('Like Post')
-    // }
+    
 
     return (
         <div>
